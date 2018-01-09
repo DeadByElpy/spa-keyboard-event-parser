@@ -7,7 +7,7 @@ module.exports = function ( event ) {
         return;
     }
 
-    eventCode = event.keydown;
+    eventCode = event.keyCode;
 
     if ( event.ctrlKey )  {
         eventCode += 'c';
