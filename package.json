@@ -1,0 +1,19 @@
+{
+  "name": "spa-keyboard-event-parser",
+  "version": "1.0.0",
+  "description": "Universal method to handle all keydown, keyup and keypress events",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -v"
+  },
+  "keywords": [
+    "spa",
+    "keyboard",
+    "event"
+  ],
+  "author": {
+    "name": "Igor Zaporozhets",
+    "email": "deadbyelpy@gmail.com"
+  },
+  "license": "MIT"
+}
